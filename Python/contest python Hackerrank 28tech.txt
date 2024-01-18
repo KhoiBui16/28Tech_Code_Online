@@ -1,0 +1,38 @@
+=Python
+Cập nhật link bài tập 
+
+Contest 0 : Làm quen hackerrank 
+https://www.hackerrank.com/28te76710g61gh-la6h7km17h788-tq113u8603efn-rvoi-hackerrankg71
+
+Contest 1 : Kiểu dữ liệu, toán tử, rẽ nhánh 
+https://www.hackerrank.com/lap-trikc-gh681st-1-ki6671eu-du-lieu-toan-tu-cau-truc-re-ng61hanh
+
+Contest 2 : Vòng lặp 
+https://www.hackerrank.com/pythonh45g616gy11-868911fvgt58techg-vong-lap
+
+Contest 3 : Hàm, Lý thuyết số 
+https://www.hackerrank.com/28222tech-gtg610-trinh-pygthgon-contest-3-ham-va-ly-thuyet-so
+
+Contest 4 : Đệ quy
+https://www.hackerrank.com/2812tech-l-tbtghg61-gt1est-4-ky-thuat-de-quy
+
+Contest 5 : Mảng 1 chiều cơ bản 
+https://www.hackerrank.com/28tech-h81-python-c6690ontest-5-mangg61-1-chieu-co-ban
+
+Contest 6 : Mảng cộng dồn, sàng số nguyên tố
+https://www.hackerrank.com/28teckh-h5f1contesg611t-6-sang-so-nguyen-to-mang-cong-don
+
+Contest 7 : Sắp xếp, tìm kiếm 
+https://www.hackerrank.com/28tekh7g611t6n-contest-7-sap-xep-va-tim-kiem
+
+Contest 8 : Set và Dictionary
+https://www.hackerrank.com/2kteg781n-cogtg5h7g613st-8-set-va-dictionary
+
+Contets 9 : Mảng 2 chiều
+https://www.hackerrank.com/2ktechgt6g1g618h-python-contest-9-mang-2-chieu
+
+Contest 10 : Xâu ký tự 
+https://www.hackerrank.com/2kteu86-ghyh56yg61tg1hon-contest-10-xau-ky-tu
+
+Contest 11 : OOP
+https://www.hackerrank.com/2ktech-gp-r6g61on-contest-11-lap-trinh-huong-doi-tuong
