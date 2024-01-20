@@ -1,0 +1,177 @@
+Bài 1. Hướng dẫn cài đặt phần mềm DEV C++ để lập trình
+Bài 2. Hướng dẫn sử dụng Dev C và lập trình chương trình đầu tiên
+Bài 3. Kiểu dữ liệu và Biến
+Bài 4. Chú thích trong ngôn ngữ lập trình C
+Bài 5. Nhập xuất dữ liệu với hàm printf và hàm scanf
+Bài 6. Toán tử gán và toán tử toán học
+Bài 7. Toán tử so sánh và toán tử logic
+Bài 8. Toán tử tăng giảm và toán tử 3 ngôi
+Bài 9. Các hàm toán học phổ biến trong thư viện math.h
+Bài 10. Hướng dẫn làm bài và nộp bài trên trang Hackerrank
+Bài 11. Hướng dẫn giải Contest 1 từ bài 1 tới bài 5
+Bài 12. Cấu trúc rẽ nhánh If...else
+Bài 13. Hướng dẫn giải Contest 1 từ bài 6 tới bài 10
+Bài 14. Cấu trúc rẽ nhánh if...else if
+Bài 15. Hướng dẫn giải Contest 1 từ bài 11 tới bài 15
+Bài 16. Cấu trúc rẽ nhánh switch case
+Bài 17. Bảng mã ASCII và các câu điều kiện kiểm tra kí tự quen thuộc
+Bài 18. Hướng dẫn giải Contest 1 từ bài 16 tới bài 20
+Bài 19. Hướng dẫn giải Contest 1 từ bài 21 tới bài 25
+Bài 20. Hướng dẫn giải Contest 1 từ bài 26 tới bài 30
+Bài 21. Hướng dẫn giải Contest 1 từ bài 31 tới bài 35
+Bài 22. Phạm vi của biến trong ngôn ngữ lập trình C (Scope Rules)
+Bài 23. Vòng lặp For, Câu lệnh Break và Continue
+Bài 24. Hướng dẫn giải Contest 2 từ bài 1 tới bài 5
+Bài 25. Hướng dẫn giải Contest 2 từ bài 6 tới bài 10
+Bài 26. Hướng dẫn giải Contest 2 từ bài 11 tới bài 15
+Bài 27. Vòng lặp While và Do While
+Bài 28. Hướng dẫn giải Contest 2 từ bài 16 tới bài 20
+Bài 29. Hướng dẫn giải Contest 2 từ bài 21 tới bài 25
+Bài 30. Hướng dẫn giải Contest 2 từ bài 26 tới bài 30
+Bài 31. Từ khóa Define và Typedef
+Bài 32. Các hệ cơ số phổ biến trong lập trình, hệ nhị phân, bát phân, thập lục phân
+Bài 33. Độ phức tạp của thuật toán
+Bài 34. Hàm trong lập trình C
+Bài 35. Những lý thuyết số và toán học phần 1
+Bài 36. Những lý thuyết số và toán học phần 2
+Bài 37. Số Fibonacci
+Bài 38. Lũy thừa nhị phân
+Bài 39. Hướng dẫn giải Contest 3 từ bài 1 tới bài 5
+Bài 40. Hướng dẫn giải Contest 3 từ bài 6 tới bài 10
+Bài 41. Hướng dẫn giải Contest 3 từ bài 11 tới bài 15
+Bài 42. Hướng dẫn giải Contest 3 từ bài 16 tới b/20
+Bài 43. Hướng dẫn giải Contest 3 từ bài 21 tới bài 25
+Bài 44. Hướng dẫn giải Contest 3 từ bài 26 tới bài 30
+PHẦN 2: KỸ THUẬT ĐỆ QUY
+Bài 45. Kỹ thuật đệ quy
+Bài 46. Hướng dẫn giải Contest 4 từ bài 1 tới bài 5
+Bài 47. Hướng dẫn giải Contest 4 từ bài 6 tới bài 10
+Bài 48. Hướng dẫn giải Contest 4 từ bài 11 tới bài 15
+Bài 49. Hướng dẫn giải Contest 4 từ bài 16 tới bài 20
+Bài 50. Hướng dẫn giải Contest 4 từ bài 21 tới bài 25
+PHẦN 3: MẢNG 1 CHIỀU, 2 CHIỀU, THUẬT TOÁN SẮP, TÌM KIẾM, CON TRỎ
+Bài 51. Lý Thuyết Mảng 1 Chiều
+Bài 52. Hướng dẫn giải Contest 5 từ bài 1 tới bài 5
+Bài 53. Hướng dẫn giải Contest 5 từ bài 6 tới bài 10
+Bài 54. Hướng dẫn giải Contest 5 từ bài 11 tới bài 15
+Bài 55. Hướng dẫn giải Contest 5 từ bài 16 tới bối 20
+Bài 56. Hướng dẫn giải Contest 5 từ bài 21 tới bài 25
+Bài 57. Hướng dẫn giải Contest 5 từ bài 26 tới bài 30
+Bài 58. Sàng số nguyên tố Eratosthenes
+Bài 59. Sắp xếp chọn - Selection sort
+Bài 60. Sắp xếp nổi bot - Bubble sort
+Bài 61. Sắp xếp chèn - Insertion sort
+Bài 62. Sắp xếp đếm phân phối - Counting sort
+Bài 63. Sắp xếp trộn - Merge sort
+Bài 64. Sắp xếp nhanh - Quick sort
+Bài 65. Thuật toán tìm kiếm nhị phân và thuật toán tìm kiếm tuyến tính
+Bài 66. Các biến thể của thuật toán tìm kiếm nhị phân
+Bài 67. Hướng dẫn giải Contest 6 từ bài 1 tới bài 5
+Bài 68. Hướng dẫn giải Contest 6 từ bài 6 tới bài 10
+Bài 69. Hướng dẫn giải Contest 6 từ bài 11 tới bài 15
+Bài 70. Hướng dẫn giải Contest 6 từ bài 16 tới bài 20
+Bài 71. Hướng dẫn giải Contest 6 từ bài 21 tới bài 25
+Bài 72. Hướng dẫn giải Contest 6 từ bài 26 tới bài 30
+Bài 73. Lý thuyết về con trỏ
+Bài 74. Hướng dẫn sử dụng hàm qsort và xây dựng Comparator
+Bài 75. Hướng dẫn giải Contest 7 từ bài 1 tới bài 5
+Bài 76. Hướng dẫn giải Contest 7 từ bài 6 tới bài 10
+Bài 77. Hướng dẫn giải Contest 7 từ bài 11 tới bài 15
+Bài 78. Hướng dẫn giải Contest 7 từ bài 16 tới bài 20
+Bài 79. Lý thuyết mảng 2 chiều
+Bài 80. Các phép toán trên ma trận
+Bài 81. Hướng dẫn giải Contest 8 từ bài 1 tới bài 5
+Bài 82. Hướng dẫn giải Contest 8 từ bài 6 tới bài 10
+Bài 83. Lý thuyết về ma trận xoáy ốc - Spiral matrix
+Bài 84. Hướng dẫn giải Contest 8 từ bài 11 tới bài 15
+Bài 85. Kỹ thuật loang trên mảng 2 chiều
+Bài 86. Hướng dẫn giải Contest 8 từ bài 16 tới bài 20
+Bài 87. Hướng dẫn giải Contest 8 từ bài 21 tới bài 25
+Bài 88. Toán tử Bit - Bitwise operator
+Bài 89. Lý thuyết về xâu ký tự (mảng ký tự)
+Bài 90. Các hàm xử lý xâu kí tự thông dụng
+Bài 91. Các bài toán liên quan tới tần suất của kí tự trong xâu
+Bài 92. Hướng dẫn giải Contest 9 từ bài 1 tới bài 10
+Bai 93: Các bài toán liên quan tới số nguyên lớn
+Bài 94. Hàm Strok và kỹ thuật tách từ trong xâu
+Bài 95. Hướng dẫn giải Contest 9 từ bài 11 tới bài 15
+Bài 96. Hướng dẫn sử dụng hàm qsort để sắp xếp từ trong xâu
+Bài 97. Hướng dẫn giải Contest 9 từ bài 16 tới bài 20
+Bài 98. Số nguyên lớn và các bài toán áp lý thuyết số áp dụng xâu kí tự
+Bài 99. Hướng dẫn giải Contest 10 từ bài 1 tới bài 5
+Bài 100. Hướng dẫn giải Contest 10 từ bài 6 tới bài 10
+Bài 101. Hướng dẫn giải Contest 10 từ bài 11 tới bài 15
+Bài 102. Hướng dẫn giải Contest 10 từ bài 16 tới bài 20
+Bài 103. Hướng dẫn giải Contest 10 từ bài 21 tới bài 25
+Bài 104. Hướng dẫn giải Contest 10 từ bài 26 tới bài 30
+Bài 105. Hướng dẫn giải Contest 10 từ bài 31 tới bài 35
+Phần 5. KIỂU CẤU TRÚC - STRUCT
+Bài 106. Lý thuyết kiểu cấu trúc (struct)
+Bài 107. Xây dựng chương trình quản lý sinh viên bằng Menu lựa chọn
+Bài 108. Hướng dẫn giải contest 11 bài 1 tới bat5
+Bài 109. Hướng dẫn giải contest 11 bài 6 tới bài 10
+Bài 110. Hướng dẫn giải contest 11 bài 11 tới bài 15
+PHẦN 5: ỨNG DỤNG CỦA CON TRỎ VÀ DANH SÁCH LIÊN KẾT (LÀM BÀI TẬP TRẮC NGHIỆM TRƯỚC KHI HỌC)
+Bài 111. Lý thuyết về danh sách liên kết, Ưu và nhược điểm của DSLK so với mảng
+Bài 112. Danh sách liên kết và cấu trúc tự trỏ
+Bài 113. Duyệt Danh sách liên kết về đếm số node trong danh sách liên kết đơn
+Bài 114. Thêm node vào đầu, cuối, giữa DSLK đơn
+Bài 115. Xóa node khỏi đầu, cuối, giữa DSLK đơn
+Bài 116. Sắp xếp các node trong DSLK đơn
+Bài 117. Danh sách liên kết đôi, duyệt và đếm số lượi &node trong DSLK đôi
+Bài 118. Thêm node vào đầu, cuối, giữa DSLK đôi
+Bài 119. Xóa node khỏi đầu, cuối, giữa DSLK đôi
+Bài 120. Duyệt ngược DSLK đôi và sắp xếp DSLK đôi
+Bài 121. Hướng dẫn giải Contest 11 bài 1 tới bài 5
+Bài 122. Hướng dẫn giải Contest 11 bài 6 tới bài 10
+PHẦN 6. XỬ LÝ FILE
+Bài 123. File Text, Các mode đọc ghi, các hàm ghi file
+Bài 124. Các hàm ghi file
+Bài 125. Hàm fseek và ftell
+Bài 126. Chữa Contest xử lý file bài 1
+Bài 127. Chữa Contest xử lý file bài 2
+Bài 128. Chữa Contest xử lý file bài 3
+Bài 129. Chữa Contest xử lý file bài 4
+Bài 130. Chữa Contest xử lý file bài 5
+Bài 131. File nhị phân, hàm fread và fwrite
+Bài 132. Chữa Contest xử lý file bài 6
+Bài 133. Chữa Contest xử lý file bài 7
+Bài 134 .Chữa Contest xử lý file bài 8
+Bài 135. Chữa Contest xử lý file bài 9
+Bài 136. Chữa Contest xử lý file bài 10
+PHẦN 7. BÀI TẬP TRẮC NGHIỆM (LÀM SONG HOẶC TRƯỚC KHI LÀM BÀI TẬP CODE HACKERRANK)
+Bài 137. [KIỂU DỮ LIỆU, TOÁN TỬ, RẼ NHÁNH] - Hướng dẫn Bài 1 - 10
+Bài 138. [KIỂU DỮ LIỆU, TOÁN TỬ, RẼ NHÁNH] - Hướng dẫn Bài 11 - 20
+Bài 139. [KIỂU DỮ LIỆU, TOÁN TỬ, RẼ NHÁNH] - Hướng dẫn bài 21 - 30
+Bài 140. [VÒNG LẶP] - Hướng dẫn Bài 1 - 5
+Bài 141. [VÒNG LẶP] - Hướng dẫn Bài 6 - 10
+Bài 142. [VÒNG LẶP] - Hướng dẫn Bài 11 - 15
+Bài 143. [VÒNG LẶP] - Hướng dẫn Bài 16 - 20
+Bài 144. [VÒNG LẶP] - Hướng dẫn Bài 21 - 25
+Bài 145. [VÒNG LẶP] - Hướng dẫn Bài 26 - 30
+Bài 146. [HÀM] - Hướng dẫn Bài 1 - 5
+Bài 147. [HÀM]- Hướng dẫn Bài 6 - 10
+Bài 148. [HÀM] - Hướng dẫn Bài 11 - 15
+Bài 149. [HÀM] - Hướng dẫn Bài 16 - 20
+Bài 150. [ĐỘ PHỨC TẠP CỦA THUẬT TOÁN] - Hướng dẫn Bài 1 - 10
+Bài 151. [ĐỆ QUY]. Hướng dẫn Bài 1 - 5
+Bài 152. [ĐỆ QUY]. Hướng dẫn Bài 6 - 10
+Bài 153. [MẢNG]. Hướng dẫn Bài 1 - 10
+Bài 154. [MẢNG]. Hướng dẫn Bài 11 - 20
+Bài 155. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bàhr - 5
+Bài 156. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bài 6 - 10
+Bài 157. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bài 11 - 15
+Bài 158. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bài 16 - 20
+Bài 159. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bài 21 - 25
+Bài 160. [LÝ THUYẾT CON TRỎ]. Hướng dẫn Bài 26 - 30
+Bài 161. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bài 1 - 10
+Bài 162. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bài 11 - 15
+Bài 163. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bài 16 - 20
+Bài 164. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bài 21 - 25
+Bài 165. [DANH SÁCH LIÊN KẾT ]. Hướng dẫn Bài 26 - 30
+Bài 166. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bài 31 - 35
+Bài 167. [DANH SÁCH LIÊN KẾT]. Hướng dẫn Bd136 - 40
+Bài 168. [CÂY NHỊ PHÂN]. Hướng dẫn Bài 1 - 5
+Bài 169. [CÂY NHỊ PHÂN]. Hướng dẫn Bài 6 - 10
+
+
