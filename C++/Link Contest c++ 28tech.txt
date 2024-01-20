@@ -1,0 +1,35 @@
+Contest 0 : Làm quen hackerrank 
+https://www.hackerrank.com/28te76710gh-lakm178-tq113u8603efn-rvoi-hackerrank
+
+Contest 1 : Kiểu dữ liệu, toán tử, rẽ nhánh 
+https://www.hackerrank.com/lap-trikc-673781st-1-kieu-du-lieu-toan-tu-cau-truc-re-nhanh
+
+Contest 2 : Vòng lặp 
+https://www.hackerrank.com/pythontt561-8fvgt58techg-vong-lap
+
+Contest 3 : Hàm, Lý thuyết số 
+https://www.hackerrank.com/28222tech-gt111-trinh-pygthgon-contest-3-ham-va-ly-thuyet-so
+
+Contest 4 : Đệ quy
+https://www.hackerrank.com/2812tech-l-tbth-gt1est-4-ky-thuat-de-quy
+
+Contest 5 : Mảng 1 chiều cơ bản 
+https://www.hackerrank.com/28tech-y71gt67h-python-contest-5-mang-1-chieu-co-ban
+
+Contest 6 : Mảng cộng dồn, sàng số nguyên tố
+https://www.hackerrank.com/28teckh-ggt6contest-6-sang-so-nguyen-to-mang-cong-don
+
+Contest 7 : Sắp xếp, tìm kiếm 
+https://www.hackerrank.com/28tekh71tgt6n-contest-7-sap-xep-va-tim-kiem
+
+Contest 8 : Set và Dictionary
+https://www.hackerrank.com/2kteg781n-cogt690st-8-set-va-dictionary
+
+Contets 9 : Mảng 2 chiều
+https://www.hackerrank.com/2ktechgt61nh-python-contest-9-mang-2-chieu
+
+Contest 10 : Xâu ký tự 
+https://www.hackerrank.com/2kteu86-ghy70ython-contest-10-xau-ky-tu
+
+Contest 11 : OOP
+https://www.hackerrank.com/2ktech-gp-r6gt61on-contest-11-lap-trinh-huong-doi-tuong
