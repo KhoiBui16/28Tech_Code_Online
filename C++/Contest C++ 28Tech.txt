@@ -1,0 +1,62 @@
+﻿1/ cin, cout, làm quen hackerrank
+	https://www.hackerrank.com/lamquenhackerrank (2024)
+	
+2/ Cấu trúc rẽ nhánh
+	https://www.hackerrank.com/c-nc-t2-2022-2co1n2v6otest-1-cau-truc-re-nhanh (2024)
+
+3 /Vòng lặp
+	https://www.hackerrank.com/c-nc-t2-2v1023627-contest-3-vong-lap (2024)
+
+4 /Hàm
+	https://www.hackerrank.com/c-nc-t2v12-20f23-cr1oynt1est-4-ham-ly-thuyet-so (2024)
+	
+4.5/ Bổ sung đồng dư, PTTSNT
+	https://www.hackerrank.com/28tech-c-bo-2226y-t1huy782et-dong-du-va-phan-tich-tsnt (2024)
+	
+5/ Mảng 1 chiều cơ bản
+	https://www.hackerrank.com/dsa-t3-20g6723-1tang-1-chieut62023 (2023)
+	
+6/ Vector và pair
+	https://www.hackerrank.com/c-nc-t2-2023-vhy8gt1effctor-va-pairt62023 (2024)
+	
+7/ Làm quen QHD
+	https://www.hackerrank.com/28tegdpcby7846cy78h-dp-21vo-tlong889
+	
+8/ Đệ quy
+	https://www.hackerrank.com/c-nc-t22-2vg2hbt6g7813-contest-5-de-quy (2024)
+	
+9/ Sort & Comparator, binary_search
+	https://www.hackerrank.com/dsa-t3-2023-fk19g459p7843-xep-va-tim-kiemt62023 (2024)
+	
+10/ Set map
+	https://www.hackerrank.com/c-nc-t2-202g673-t35gt15test-9-set-map (2024)
+	
+11/ Mảng 1 chiều TB
+	https://www.hackerrank.com/c-nc-t21g2-2gt2gy10223-contest-8-mang-1-chieu (2024)
+	
+12/ Sắp xếp tìm kiếm
+	https://www.hackerrank.com/c-nc-t2-202sxtgy1k213v1-contest-10-sap-xep-va-tim-kiem (2024)
+	
+13/ Mảng 2 chiều
+	https://www.hackerrank.com/28tech-dsa-221023-mayng-2-chieu (2023)
+	
+14/ Chuỗi ký tự cơ bản
+	https://www.hackerrank.com/c-2023-xau-ky-tu-co-ban-phan-2 (lỗi)
+	
+15/ String nâng cao
+	https://www.hackerrank.com/c-nc-t2-20h2contgt11es1t-12-string-nang-cao (2024)
+	
+16/ Struct
+	https://www.hackerrank.com/22228tech-lap-g6g1811ec-contest-11-kieu-cau-truc-struct (khóa C)
+	
+17/ DSLK
+	https://www.hackerrank.com/28tkech-lap-8ghg61g1t66h-c-contest-12-danh-sach-lien-ket (Khóa C)
+
+18/ OOP
+	https://www.hackerrank.com/c-nc-41gt221l-hdt5262hy712023-conte2st-15-oop (2024)
+
+19/ Kế thừa
+	https://www.hackerrank.com/c-nc-t2-20tg56692g781t67est-16-ke-thua-da-hinh (2024)
+
+20/ Ngăn xếp, hàng đợi, 2 con trỏ, cửa sổ trượt
+	https://www.hackerrank.com/dsa-2022-ngan-to-1hophoclaptrinh28teh1xeprrrraaaa (2024)
