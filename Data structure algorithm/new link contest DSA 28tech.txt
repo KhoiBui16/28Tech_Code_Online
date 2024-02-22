@@ -44,3 +44,6 @@
 
 15. Tham lam
 	https://www.hackerrank.com/dsa-202226786r1greedy2thamlam3-tham-lamgreedy (2024)
+
+16. làm quen QHD
+	https://www.hackerrank.com/28tegdpcby7846cy78h-dp-21vo-tlong889
