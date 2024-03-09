@@ -26,7 +26,7 @@ def prime_factorization(n):
                 n //= i
             print(i, exponent, sep = '^', end = '')
             if n != 1:
-                print(' * ', end = ' ')
+                print(' * ', end = '')
     if n > 1:
         print(n, 1, sep = '^')
 
