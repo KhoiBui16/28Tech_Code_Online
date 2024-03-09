@@ -1,5 +1,4 @@
 import math
-import math
 def is_beautiful_num(n):
     for i in range(2, math.isqrt(n) + 1):
         if n % i == 0:
