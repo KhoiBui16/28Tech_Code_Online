@@ -139,7 +139,7 @@ def print_digit_power_sum(n):
     return sum
 
 if __name__ == '__main__':
-    n = int(input('Enter n: '))
+    n = int(input())
     print(isPrime(n))
     print(sum_of_digits(n))
     print(sum_of_even_digits(n))
