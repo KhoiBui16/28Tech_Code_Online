@@ -14,16 +14,16 @@ def is_beautiful(n):
     n //= 10
     while n >= 10:
         temp = temp * 10 + n % 10
-        temp //= 10
+        n //= 10
     first = n
-    if (last * 2 == first or first * 2 == last) and is_almost_palindrome(temp) :
+    if ((last * 2 == first) or (first * 2 == last)) and is_almost_palindrome(temp) :
         return True
     return False
     
 
 if __name__ == '__main__':
     n = int(input())
-    if (is_beautiful):
+    if (is_beautiful(n)):
         print('YES')
     else:
         print('NO')
