@@ -1,6 +1,6 @@
 a, b, n = map(int, input().split())
 check = False
-for x in range(n // a):
+for x in range(n // a + 1):
     temp = n - a * x
     if temp % b == 0:
         check = True
