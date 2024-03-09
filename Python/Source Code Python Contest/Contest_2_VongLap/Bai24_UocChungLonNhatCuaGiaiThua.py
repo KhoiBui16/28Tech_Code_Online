@@ -1,6 +1,6 @@
 import math
 a, b = map(int, input().split())
-ucln = math.gcd(min(a, b))
+ucln = math.factorial(min(a, b))
 print(ucln)
 '''
 Giai thich:
