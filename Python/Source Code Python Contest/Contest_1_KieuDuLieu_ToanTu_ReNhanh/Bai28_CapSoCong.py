@@ -6,5 +6,5 @@
 n, u1, d = map(int, input().split())
 sum = 0
 u_n = u1 + (n - 1) * d
-sum = n // 2 * (u1 + u_n)
+sum = n * (u1 + u_n) // 2
 print(sum)
