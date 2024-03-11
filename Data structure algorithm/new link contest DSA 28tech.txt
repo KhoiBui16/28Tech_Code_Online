@@ -47,3 +47,9 @@
 
 16. làm quen QHD
 	https://www.hackerrank.com/28tegdpcby7846cy78h-dp-21vo-tlong889
+
+17. Quy hoạch động
+	https://www.hackerrank.com/dsa-2021jg53qhd-12dpqu6712yhoachdong22
+
+18. Lý Thuyết Đồ Thị
+	https://www.hackerrank.com/dsa-t2-21ou89do1t2hil12541023-do-thigraphtheory
