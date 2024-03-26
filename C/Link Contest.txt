@@ -1,46 +1,43 @@
-LINK CONTEST C
 C
 Cập nhật link bài tập
+
+Blog tham khảo thêm về C : https://blog.28tech.com.vn/c
+
 Contest 0 : Làm quen hackerrank 
-https://www.hackerrank.com/28te76710g61gh-l4a6h7km17h788-tq113u8603efn-rvoi-hackerrankg71
+https://www.hackerrank.com/28te76710g61gh2-l4a6h7km17h788-tq113u8603efn-rvoi-hackerrankg71
 
 Contest 1 : Kiểu dữ liệu, toán tử, rẽ nhánh 
-https://www.hackerrank.com/lap-trikc-gh68t1st-1-ki6671eu-du-lieu-toan-tu-cau-truc-re-ng61hanh
+https://www.hackerrank.com/lap-trikc-gh268t1st-1-ki6671eu-du-lieu-toan-tu-cau-truc-re-ng61hanh
 
 Contest 2 : Vòng lặp 
-https://www.hackerrank.com/28tech-lag56hg6175gfp-tf6671nh-gc-contest-2-vong-lap
+https://www.hackerrank.com/28tech-lag256hg6175gfp-tf6671nh-gc-contest-2-vong-lap
 
 Contest 3 : Hàm, Lý thuyết số 
-https://www.hackerrank.com/28techk-la6gh6581671y7-pgt-c-ham-va-ly-thuy4et-so
+https://www.hackerrank.com/28techk-la6gh65812671y7-pgt-c-ham-va-ly-thuy4et-so
 
 Contest 4 : Đệ quy
-https://www.hackerrank.com/28techkf-lap-hg61w5hgs-c66716723-de-quy
+https://www.hackerrank.com/28techkf-lap-hfg61w5hgs-c66716723-de-quy
 
 Contest 5 : Mảng 1 chiều cơ bản 
-https://www.hackerrank.com/290i2tech2u-lapgh5g6gy1ang-1-chieu-co-ban
+https://www.hackerrank.com/290i2tech2u-2lapgh5g6gy1ang-1-chieu-co-ban
 
 Contest 6 : Mảng 1 chiều 
-https://www.hackerrank.com/tech-lk-tnuhg61g12-cff-sang-so-nguhyen-to-eratothenes
+https://www.hackerrank.com/tech-lk-tnuhg61g12-c2ff-sang-so-nguhyen-to-eratothenes
 
 Contest 7 : Sắp xếp, tìm kiếm 
-https://www.hackerrank.com/28222ktech-ghg611g-c-coggntest-7-sap-xep-va-tim-kiem
+https://www.hackerrank.com/28222ktech2-ghg611g-c-coggntest-7-sap-xep-va-tim-kiem
 
 Contest 8 : Mảng 2 chiều 
-https://www.hackerrank.com/29ltech-lkap-g6181-c2hhh-contest-8-mang-2-chieu
+https://www.hackerrank.com/29ltech-l2kap-g6181-c2hhh-contest-8-mang-2-chieu
 
 Contest 9 : Xâu ký tự cơ bản 
-https://www.hackerrank.com/techk-lh69-c-ffcof5g61ntest-8-xau-ky-tu-co-ban
+https://www.hackerrank.com/techk-lh2369-c-ffcof5g61ntest-8-xau-ky-tu-co-ban
 
 Contest 10 : Xâu ký tự nâng cao 
-https://www.hackerrank.com/28techf-g67h-h6gf611-fgecontest-10-xau-ky-tu-nang-cao
+https://www.hackerrank.com/28techf-g67h-h6gf6211-fgecontest-10-xau-ky-tu-nang-cao
 
 Contest 11 : Cấu trúc 
-https://www.hackerrank.com/22228tech-lap-g6g1811ec-contest-11-kieu-cau-truc-struct
+https://www.hackerrank.com/22228tech-lap-g6g18211ec-contest-11-kieu-cau-truc-struct
 
 Contest 12 : DSLK
-https://www.hackerrank.com/28tkech-lap-8ghg61g1t66h-c-contest-12-danh-sach-lien-ket
-
-Link bài tập trắc nghiệm (pass : 28tech.com.vn)
-https://drive.google.com/file/d/1AlTrb4PsDBL7xwUnM5oQPSN7rHwrWDzn/view?usp=share_link
-
-
+https://www.hackerrank.com/28tkech-lap-81ghg61g1t66h-c-contest-12-danh-sach-lien-ket
