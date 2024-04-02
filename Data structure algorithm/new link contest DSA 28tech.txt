@@ -53,3 +53,9 @@
 
 18. Lý Thuyết Đồ Thị
 	https://www.hackerrank.com/dsa-t2-21ou89do1t2hil12541023-do-thigraphtheory
+
+19. Ngăn Xếp Hàng Đợi
+	https://www.hackerrank.com/dsa-t2-2023-nhan2g1doihun11670kan-xep-hang-doiqueuestack
+
+20. Cây Nhị Phân
+	https://www.hackerrank.com/dsa-2022et-t2r2eec678ay-nh-phanbinarytree
