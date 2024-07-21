@@ -1,16 +1,17 @@
-def fibo1(n):
+mod = 1000000007
+
+def fibo(n):
     if n == 1:
-        print(1)
+        return 0
     elif n == 2:
-        print(1, 1, sep = '\n')
+        return 1
     else:
-        f1, f2 = 1, 1
-        print(f1, f2, sep = '\n')
+        f1, f2 = 0, 1
         for i in range(3, n + 1):
-            fn = f1 + f2
-            print(fn)
-            f2, f1 = f1, fn
-                
+            fn = (f1 % mod + f2 % mod) % mod
+            f1, f2 = f2, fn
+        return fn
+
 if __name__ == '__main__':
     n = int(input())
-    fibo1(n)
+    print(fibo(n))

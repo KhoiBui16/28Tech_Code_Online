@@ -30,10 +30,13 @@ import math
 
 if __name__ == '__main__':
     a, b = map(int, input().split())
-    square_root_a, square_root_b = math.isqrt(a), math.isqrt(b)
-    if square_root_a * square_root_a < a:
+    square_root_a = int(math.sqrt(a))
+    square_root_b = int(math.sqrt(b))
+    
+    if square_root_a * square_root_a != a:
         square_root_a += 1
-    if (square_root_b + 1) * (square_root_b + 1) == b:
-        square_root_b += 1
+    
     count_of_perfect_square_nums = square_root_b - square_root_a + 1
     print(count_of_perfect_square_nums)
+
+    

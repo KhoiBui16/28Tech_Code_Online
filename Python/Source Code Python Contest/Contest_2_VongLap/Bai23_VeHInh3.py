@@ -14,6 +14,7 @@ for i in range(1, n + 1):
         print(khoi_tao, end = ' ')
         khoi_tao += 1
     print()
+print()
 # hinh 3:
 for i in range(1, n + 1):
     for j in range(1, n + 1):
@@ -22,6 +23,7 @@ for i in range(1, n + 1):
         else:
             print(i, end = '')
     print()
+print()
 # hinh 4
 for i in range(1, n + 1):
     khoitao = i

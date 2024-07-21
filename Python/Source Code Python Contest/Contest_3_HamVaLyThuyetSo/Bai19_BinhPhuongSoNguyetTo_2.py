@@ -24,3 +24,25 @@ if __name__ == '__main__':
     
     Còn bài trước thì chỉ cần tồn tại 1 thừa số nguyên tố có mũ từ 2  trở lên là được
 '''
+"""  
+import math
+
+def check(n):
+    for i in range(2, math.isqrt(n) + 1):
+        if n % i == 0:
+            cnt = 0
+            while n % i == 0:
+                cnt += 1
+                n //= i
+            if cnt < 2:
+                return False
+    if n != 1:
+        return False
+    return True
+
+if __name__ == '__main__':
+    a, b = map(int, input().split())
+    results = [i for i in range(a, b + 1) if check(i)]
+    print(' '.join(map(str, results)))
+
+"""

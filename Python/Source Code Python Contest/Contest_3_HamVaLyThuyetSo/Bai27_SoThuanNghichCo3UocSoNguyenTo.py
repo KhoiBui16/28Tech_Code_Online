@@ -18,21 +18,21 @@ def count_prime_of_divisors(n):
                 n //= i
     if n > 1:
         cnt += 1
-    return cnt    
+    return cnt >= 3
 
 def is_beautiful_num(n):
-    if is_palindrome(n) and count_prime_of_divisors(n) >= 3:
+    if is_palindrome(n) and count_prime_of_divisors(n):
         return True
     return False
 
 if __name__ == '__main__':
     a, b = map(int, input().split())
-    check = 0
+    checked = False
     for i in range(a, b + 1):
         if is_beautiful_num(i):
-            check = 1
+            checked = True
             print(i, end = ' ')
-    if check == 0:
+    if not checked:
         print(-1)
         
 '''
