@@ -13,7 +13,7 @@
     for ta sử dụng built-in function là range().
 
     Cú pháp:
-    |for var in iterable:|
+    <for var in iterable:>
     - var: biến dùng để duyệt
     - iterabe: là một tập của các đối tượng VD: list, tuple, string, etc. => cái mà ta muốn duyệt
     - Bên trong for các satement đều được thụt lề vào 1 khoảng cách (4 spaces) hoặc 1 tab

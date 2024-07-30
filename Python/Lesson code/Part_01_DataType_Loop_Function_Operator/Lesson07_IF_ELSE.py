@@ -101,3 +101,7 @@ if n >= 20 and n <= 30:
         print('NO')
 else:
     print('NO')
+    
+    # toan tu 3 ngoi so sanh a > b thi gan c = a nguoc lai c = b
+a, b = 1, 2
+c = a if a> b else b

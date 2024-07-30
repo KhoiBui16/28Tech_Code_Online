@@ -29,6 +29,7 @@ Bien va kieu du lieu
             + print('%.2f' % a) => remember
             + print(round(a, 2)) => kha nguyen hiem do co lam tron
             + print('{:.2f}'.format(a)) => remember
+            
         
     3. so phuc (complex numbers)
         * gom phan thuc va ao
@@ -131,3 +132,13 @@ print(a, type(a))
 k = 20.23455
 print('Vi du 2:')
 print(int(k), type(k))
+
+""""
+    print('%.2f' % a) => remember
+    + print(round(a, 2)) => kha nguyen hiem do co lam tron
+    + print('{:.2f}'.format(a)) => remember
+"""
+
+a = 2.8
+print('%.2f' % a) 
+print('{:.2f}'.fomat(a))

@@ -38,7 +38,7 @@
     gcd(100, 450) = 50
     
     8/ comb(n, k)   : Tinh to hop chap k cua n
-    - Cth: NcK = n! / [k! * (n - k)!]
+    - Cth: nCk = n! / [k! * (n - k)!]
     comb(10, 2) => 10C2 = 45
     
     9/ fabs: gia tri tuyet doi => gia tri tra ve la so thuc floa
@@ -62,6 +62,6 @@
     4/ min: tra ve gia tri nho nhat khi so sanh giua nhieu so
     min(3, 0, 4, 6, 9, -1) = -1
     
-    5/ sun: tra ve gia tri tong cac phan tu xet
+    5/ sum: tra ve gia tri tong cac phan tu xet
     sum([10, 1, 4, 5]) = 20
 '''

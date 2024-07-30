@@ -43,7 +43,7 @@ print('Sum of', m, 'and', n, 'is', sum(m, n))
 
     5/    
     - code for run the program
-    if __name__ = '__main__':
+    if __name__ == '__main__':
         #code block: statement
         #call function
         function_name(arguments)
@@ -81,6 +81,7 @@ if __name__ == '__main__':
     # the result: Hello X Y Z
     #             Hello Y Z X
     # => when you use keyword arguments, the order of the arguments is not important.
+    # because you asign the value to this argument so when you call function and the parameters are followed your argument asigned
     
     7/ Default arguments
     - You can set the default value for the arguments in the function.
@@ -100,3 +101,9 @@ if __name__ == '__main__':
     # if the function is called has the corresponding argument, the default value will be replaced by the corresponding argument.
 '''
 
+def print_hello(name1, name2, name3):
+    print('hello', name1, name2, name3)
+
+if __name__ == '__main__':
+    print_hello('X', 'Y', 'Z')
+    print_hello(name3 = 'X', name2 = 'z', name1 = 'Y')    

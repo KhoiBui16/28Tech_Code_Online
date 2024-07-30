@@ -42,3 +42,4 @@ print(x + y + z) # Ket qua: 100200300 Vì phep toan nay la cong xau voi nhau
 x, y, z = map(int, input('Nhap 3 so nguyen: ').split())
 print(x, y, z , type(x), type(y), type(z), sep = '\n', end = '\n')
 print(x + y + z)
+a, b = map(int, input('prompt:').split())
